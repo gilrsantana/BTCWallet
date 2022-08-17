@@ -23,6 +23,8 @@ Carteira gerada
 Endereço:  mquEVbNxa6bupM1QYWEDYchcq4GANEe5j1
 ```
 
+## Operações
+
 - Verificar carteira no Bitcoin Explorer Testnet: 0 Transações
 
 - Adicionar Bitcoin Faucet (https://bitcoinfaucet.uo1.net/)
